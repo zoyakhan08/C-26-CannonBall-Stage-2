@@ -1,1 +1,1 @@
-# C-26-CannonBall-Stage-2
+The second phase in the cannonball game.
